@@ -19,7 +19,6 @@ The module is designed for convolutional neural networks and can be inserted int
 - Easy to plug into existing CNN architectures
 - Supports 2D feature maps of shape **(B, C, H, W)**
 - Includes weight initialization function
-- Clean code structure for research and reproduction
 
 ---
 
