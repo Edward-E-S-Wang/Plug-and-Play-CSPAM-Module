@@ -6,6 +6,8 @@ A PyTorch implementation of a **plug-and-play Channel-Spatial-Positional Attenti
 This repository provides a lightweight attention block that can be easily inserted into existing deep learning models for feature refinement. The module combines **channel attention**, **spatial attention**, and **positional attention** in a sequential manner, and is suitable for a wide range of computer vision tasks, especially medical image analysis and image segmentation.
 
 ---
+![Figure](https://github.com/Edward-E-S-Wang/Plug-and-Play-CSPAM-Module/blob/Main/CSPAM.png)
+Figure 1: The schematic figure of CSPAM
 
 ## Overview
 
@@ -349,3 +351,8 @@ Possible extensions for future versions include:
 * benchmark experiments on public datasets
 
 ---
+## Citation
+If you use this code, this implementation strategy, or a modified version of it in academic work, please cite the original article:
+
+
+Wang, Y., Wen, Z., Bao, S. et al. *Diffusion-CSPAM U-Net: A U-Net model integrated hybrid attention mechanism and diffusion model for segmentation of computed tomography images of brain metastases*. Radiation Oncology 20, 50 (2025). DOI: 10.1186/s13014-025-02622-x
