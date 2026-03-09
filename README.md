@@ -6,7 +6,7 @@ A PyTorch implementation of a **plug-and-play Channel-Spatial-Positional Attenti
 This repository provides a lightweight attention block that can be easily inserted into existing deep learning models for feature refinement. The module combines **channel attention**, **spatial attention**, and **positional attention** in a sequential manner, and is suitable for a wide range of computer vision tasks, especially medical image analysis and image segmentation.
 
 ---
-![Figure](https://github.com/Edward-E-S-Wang/Plug-and-Play-CSPAM-Module/blob/Main/CSPAM.png)
+![Figure](https://github.com/Edward-E-S-Wang/Plug-and-Play-CSPAM-Module/blob/main/CSPAM.png)
 Figure 1: The schematic figure of CSPAM
 
 ## Overview
