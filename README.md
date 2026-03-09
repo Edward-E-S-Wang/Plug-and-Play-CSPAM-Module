@@ -80,7 +80,7 @@ The channel attention branch uses both **global average pooling** and **global m
 **Main idea**
 
 * captures global channel statistics
-* uses both average and max responses
+* uses both global average pooling and global max pooling
 * generates channel-wise weights in the range `[0, 1]`
 
 ---
