@@ -167,8 +167,6 @@ cd Plug-and-Play-CSPAM-Module
 pip install -r requirements.txt
 ```
 
-A simple `requirements.txt` can be:
-
 ```txt
 torch>=1.8.0
 ```
